@@ -2,7 +2,7 @@ import psycopg2
 
 # Postgres connection parameters (Local Docker)
 host = "localhost"
-port = "5432"
+port = "5438"
 dbname = "telecom_db"
 user = "admin"
 password = "password"

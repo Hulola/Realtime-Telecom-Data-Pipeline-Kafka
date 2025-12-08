@@ -46,7 +46,7 @@ df = df.filter(df.call_duration > 0)
 
 # Redshift Configuration
 # Postgres Configuration (Local Replacement for Redshift)
-postgres_jdbc_url = "jdbc:postgresql://localhost:5432/telecom_db"
+postgres_jdbc_url = "jdbc:postgresql://localhost:5438/telecom_db"
 postgres_table = "telecom_data"
 postgres_user = "admin"
 postgres_password = "password"
