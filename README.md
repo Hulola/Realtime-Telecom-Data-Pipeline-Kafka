@@ -36,6 +36,7 @@
 🚀 **Try it now:**
 - **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
 - **Project Demo** - https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/
+- *Experience the real-time analytics dashboard with live data streaming from Supabase!*
 
 ---
 ## 🎯 Overview
@@ -55,14 +56,6 @@ This project implements a **real-time telecom Call Detail Record (CDR) processin
 ✅ **Production-ready** code with error handling  
 ✅ **Scalable architecture** supporting millions of events  
 ✅ **Beautiful UI** with glassmorphism design  
-
----
-
-## 🌐 Live Demo
-
-🔗 **[View Live Dashboard](https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/)**
-
-> *Experience the real-time analytics dashboard with live data streaming from Supabase!*
 
 ---
 
