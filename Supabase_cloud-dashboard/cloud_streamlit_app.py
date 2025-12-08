@@ -233,7 +233,7 @@ def fetch_data_from_db(conn):
                network_provider, total_amount
         FROM telecom_data
         ORDER BY start_datetime DESC
-        LIMIT 5000
+        LIMIT 11000
     """
     return pd.read_sql(query, conn)
 
